@@ -6,6 +6,7 @@ public class Hero {
     public Hero(int health, int damage, String superPower) {
         this.health = health;
         this.damage = damage;
+
         this.superPower = superPower;
     }
     public Hero(int health, int damage) {
